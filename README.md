@@ -1,4 +1,4 @@
-# Landing Page
+# Biscoito da Sorte
 
 ![alt text](./assets/image.png)
 
